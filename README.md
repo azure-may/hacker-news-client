@@ -1,5 +1,5 @@
-#Hacker News Client
-##Search and display stories
+# Hacker News Client
+## Search and display stories
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
